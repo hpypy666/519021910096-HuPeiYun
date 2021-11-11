@@ -6,7 +6,8 @@
 
 ### 效果图：
 
-![image-20210926233746112](C:\Users\HPY\AppData\Roaming\Typora\typora-user-images\image-20210926233746112.png)
+![image](https://github.com/hpypy666/519021910096-HuPeiYun/blob/main/%E4%BD%9C%E4%B8%9A%E6%95%88%E6%9E%9C%E5%9B%BE/homework2.png?raw=true)
+
 
 ### 实现方法：
 
