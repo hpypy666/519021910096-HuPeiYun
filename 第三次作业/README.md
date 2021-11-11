@@ -10,7 +10,8 @@
 
 #### 效果图：
 
-![image](https://github.com/hpypy666/processing/blob/main/homework_3/homework3.png)
+![image](https://github.com/hpypy666/519021910096-HuPeiYun/blob/main/%E4%BD%9C%E4%B8%9A%E6%95%88%E6%9E%9C%E5%9B%BE/homework3.png?raw=true)
+
 
 
 
