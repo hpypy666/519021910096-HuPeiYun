@@ -10,15 +10,15 @@
 
 单击鼠标左键会出现一个字母；
 
-按住鼠标左键进行拖拽会出现一串字母，字母大小与鼠标移动速度相关。
+按住鼠标左键进行拖拽会出现一串字母，字母大小与鼠标移动速度相关,鼠标移动越快，字母越大。
 
 字母出现位置为此时鼠标所在的位置。
 
 #### 效果图：
 
-![image](https://github.com/hpypy666/processing/blob/main/Homework_4/%E6%95%88%E6%9E%9C1.png)
+![image](https://github.com/hpypy666/519021910096-HuPeiYun/blob/main/%E4%BD%9C%E4%B8%9A%E6%95%88%E6%9E%9C%E5%9B%BE/homework_4_1.png?raw=true)
 
-![image](https://github.com/hpypy666/processing/blob/main/Homework_4/%E6%95%88%E6%9E%9C2.png)
+![image](https://github.com/hpypy666/519021910096-HuPeiYun/blob/main/%E4%BD%9C%E4%B8%9A%E6%95%88%E6%9E%9C%E5%9B%BE/homework_4_2.png?raw=true)
 
 
 
@@ -74,9 +74,9 @@ if(mousePressed){
 
 
 
-![Zero One](C:\Users\HPY\Desktop\Zero One.gif)
+![image](https://github.com/hpypy666/519021910096-HuPeiYun/blob/main/%E4%BD%9C%E4%B8%9A%E6%95%88%E6%9E%9C%E5%9B%BE/Zero%20One.gif?raw=true)
 
-
+![image](https://github.com/hpypy666/519021910096-HuPeiYun/blob/main/%E4%BD%9C%E4%B8%9A%E6%95%88%E6%9E%9C%E5%9B%BE/zero%20one.png?raw=true)
 
 
 
@@ -94,7 +94,7 @@ if(mousePressed){
 
 
 
-![Processing is](C:\Users\HPY\Desktop\Processing is.png)
+![Processing is](https://github.com/hpypy666/519021910096-HuPeiYun/blob/main/%E4%BD%9C%E4%B8%9A%E6%95%88%E6%9E%9C%E5%9B%BE/Processing%20is.png?raw=true)
 
 
 
