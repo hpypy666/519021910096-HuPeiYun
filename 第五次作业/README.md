@@ -10,7 +10,7 @@
 
 程序运行后界面如下：
 
-![image](https://github.com/hpypy666/processing/blob/main/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A/Image01.png)
+![image](https://github.com/hpypy666/519021910096-HuPeiYun/blob/main/%E4%BD%9C%E4%B8%9A%E6%95%88%E6%9E%9C%E5%9B%BE/homework_5_1.png?raw=true)
 
 
 
@@ -18,7 +18,7 @@ Change Pen下设三个按钮，从左到右依次是，黑笔，特效笔（鼠�
 
 创作出作品图如下：
 
-![image](https://github.com/hpypy666/processing/blob/main/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A/Image02.png)
+![image](https://github.com/hpypy666/519021910096-HuPeiYun/blob/main/%E4%BD%9C%E4%B8%9A%E6%95%88%E6%9E%9C%E5%9B%BE/homework_5_2.png?raw=true)
 
 
 
