@@ -20,7 +20,7 @@
 
 【2】在100代之后，大多数小球可以穿过障碍击中目标。
 
-![image]()
+![image](https://github.com/hpypy666/519021910096-HuPeiYun/blob/main/%E4%BD%9C%E4%B8%9A%E6%95%88%E6%9E%9C%E5%9B%BE/homework8_2.png?raw=true)
 
 
 
